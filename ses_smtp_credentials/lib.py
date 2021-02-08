@@ -2,7 +2,7 @@ import hmac
 import hashlib
 import base64
 
-from constants import (
+from .constants import (
     SMTP_REGIONS,
     SIG_DATE,
     SIG_SERVICE,
