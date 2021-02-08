@@ -28,7 +28,7 @@ ses-smtp-credentials --secret SECRET_ACCESS_KEY --region REGION
 ## License
 This code was based on sample code from [the AWS documentation][ses-smtp-doc] that was released
 under a [modified MIT license][ses-smtp-licence] on [GitHub][ses-smtp-src]. In the documentation
-it's called "smtp_credentials_generate.py". The same licence has been adapted to this repository. 
+it's called "smtp_credentials_generate.py". The same license has been adapted to this repository. 
 See the LICENSE file. 
 
 
