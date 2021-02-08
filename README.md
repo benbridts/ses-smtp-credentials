@@ -32,6 +32,6 @@ it's called "smtp_credentials_generate.py". The same licence has been adapted to
 See the LICENSE file. 
 
 
-[ses-smtp-doc](https://docs.aws.amazon.com/ses/latest/DeveloperGuide/smtp-credentials.html)
-[ses-smtp-license](https://github.com/awsdocs/amazon-ses-developer-guide/blob/3c0d65cbb63c8aaebfc4d005ca96d3b0332e0430/LICENSE-SAMPLECODE)
-[ses-smtp-src](https://github.com/awsdocs/amazon-ses-developer-guide/blob/3c0d65cbb63c8aaebfc4d005ca96d3b0332e0430/doc-source/smtp-credentials.md)
+[ses-smtp-doc]: https://docs.aws.amazon.com/ses/latest/DeveloperGuide/smtp-credentials.html
+[ses-smtp-licence]: https://github.com/awsdocs/amazon-ses-developer-guide/blob/3c0d65cbb63c8aaebfc4d005ca96d3b0332e0430/LICENSE-SAMPLECODE
+[ses-smtp-src]: https://github.com/awsdocs/amazon-ses-developer-guide/blob/3c0d65cbb63c8aaebfc4d005ca96d3b0332e0430/doc-source/smtp-credentials.md
