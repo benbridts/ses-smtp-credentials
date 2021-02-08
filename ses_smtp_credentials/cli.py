@@ -2,8 +2,8 @@
 import argparse
 from getpass import getpass
 
-from constants import SMTP_REGIONS
-from lib import calculate_key
+from .constants import SMTP_REGIONS
+from .lib import calculate_key
 
 
 def run():
